@@ -1,0 +1,139 @@
+CONTACTO_ID,CLIENTE_ID,FECHA,CANAL,ASUNTO,RESPONDIO,REALIZO_PAGO
+1,1001,2026-06-13,WhatsApp,Oferta de pago,SI,SI
+2,1001,2026-02-05,Email,Recordatorio,NO,SI
+3,1002,2026-05-16,Llamada,Oferta de pago,SI,SI
+4,1002,2026-01-01,Llamada,Seguimiento,SI,SI
+5,1002,2026-04-28,Email,Recordatorio,SI,NO
+6,1002,2026-02-10,Llamada,Recordatorio,NO,NO
+7,1003,2026-04-27,Email,Recordatorio,NO,NO
+8,1003,2026-06-19,Llamada,Oferta de pago,SI,SI
+9,1003,2026-05-17,Email,Oferta de pago,SI,SI
+10,1003,2026-02-06,Email,Oferta de pago,SI,SI
+11,1004,2026-06-17,Llamada,Seguimiento,NO,SI
+12,1004,2026-05-02,Email,Recordatorio,NO,SI
+13,1004,2026-01-17,WhatsApp,Seguimiento,SI,SI
+14,1005,2026-03-20,Llamada,Seguimiento,SI,NO
+15,1005,2026-04-17,Llamada,Oferta de pago,SI,NO
+16,1005,2026-05-07,WhatsApp,Recordatorio,NO,SI
+17,1006,2026-04-11,Email,Seguimiento,SI,NO
+18,1006,2026-01-07,Llamada,Oferta de pago,SI,SI
+19,1006,2026-06-21,Llamada,Oferta de pago,SI,NO
+20,1007,2026-04-08,Llamada,Recordatorio,NO,NO
+21,1007,2026-02-22,Email,Recordatorio,NO,NO
+22,1008,2026-04-07,WhatsApp,Oferta de pago,SI,NO
+23,1008,2026-01-11,Llamada,Oferta de pago,NO,SI
+24,1008,2026-04-11,Llamada,Seguimiento,NO,SI
+25,1009,2026-02-04,Email,Oferta de pago,NO,SI
+26,1009,2026-02-09,Email,Oferta de pago,NO,NO
+27,1010,2026-05-17,Llamada,Oferta de pago,NO,SI
+28,1010,2026-03-02,Llamada,Recordatorio,NO,SI
+29,1011,2026-01-21,Email,Oferta de pago,SI,SI
+30,1011,2026-01-09,Email,Oferta de pago,SI,NO
+31,1011,2026-05-14,WhatsApp,Seguimiento,SI,SI
+32,1012,2026-06-08,Email,Recordatorio,NO,SI
+33,1012,2026-02-07,WhatsApp,Seguimiento,NO,SI
+34,1012,2026-03-15,Llamada,Seguimiento,SI,NO
+35,1012,2026-03-26,Email,Oferta de pago,SI,SI
+36,1013,2026-06-17,Llamada,Recordatorio,NO,SI
+37,1013,2026-04-04,Llamada,Seguimiento,NO,NO
+38,1014,2026-04-17,WhatsApp,Seguimiento,SI,SI
+39,1014,2026-03-07,Llamada,Seguimiento,SI,NO
+40,1014,2026-03-02,Email,Recordatorio,SI,NO
+41,1014,2026-04-06,Email,Recordatorio,NO,NO
+42,1015,2026-02-23,WhatsApp,Recordatorio,NO,SI
+43,1015,2026-02-09,WhatsApp,Recordatorio,NO,NO
+44,1015,2026-03-18,WhatsApp,Recordatorio,SI,NO
+45,1015,2026-02-12,Email,Recordatorio,NO,NO
+46,1016,2026-04-09,Llamada,Seguimiento,SI,SI
+47,1016,2026-05-25,Email,Recordatorio,NO,SI
+48,1017,2026-04-19,Email,Oferta de pago,SI,NO
+49,1017,2026-03-21,Email,Recordatorio,SI,NO
+50,1018,2026-06-16,Email,Oferta de pago,SI,SI
+51,1018,2026-06-17,Llamada,Oferta de pago,SI,SI
+52,1018,2026-06-19,Llamada,Seguimiento,SI,SI
+53,1019,2026-01-05,Llamada,Oferta de pago,SI,NO
+54,1019,2026-04-18,Email,Seguimiento,SI,SI
+55,1020,2026-03-01,WhatsApp,Recordatorio,SI,SI
+56,1020,2026-06-24,WhatsApp,Oferta de pago,SI,NO
+57,1020,2026-02-24,Email,Recordatorio,NO,NO
+58,1021,2026-01-16,Llamada,Oferta de pago,SI,SI
+59,1021,2026-01-20,Email,Oferta de pago,NO,NO
+60,1021,2026-05-19,Email,Recordatorio,NO,SI
+61,1022,2026-03-22,Email,Seguimiento,SI,NO
+62,1022,2026-03-23,Llamada,Oferta de pago,NO,NO
+63,1022,2026-04-25,Email,Seguimiento,SI,NO
+64,1023,2026-04-01,WhatsApp,Oferta de pago,SI,NO
+65,1023,2026-03-13,Email,Recordatorio,SI,SI
+66,1024,2026-06-17,WhatsApp,Oferta de pago,SI,NO
+67,1024,2026-01-23,WhatsApp,Recordatorio,NO,NO
+68,1025,2026-01-06,Email,Oferta de pago,NO,NO
+69,1025,2026-03-24,Email,Oferta de pago,NO,NO
+70,1025,2026-03-04,WhatsApp,Recordatorio,NO,NO
+71,1026,2026-01-07,Llamada,Recordatorio,NO,NO
+72,1026,2026-03-03,WhatsApp,Oferta de pago,SI,NO
+73,1026,2026-04-25,WhatsApp,Recordatorio,NO,SI
+74,1027,2026-06-10,Llamada,Recordatorio,SI,NO
+75,1027,2026-04-17,WhatsApp,Recordatorio,NO,NO
+76,1028,2026-06-13,Llamada,Seguimiento,SI,SI
+77,1028,2026-01-24,WhatsApp,Oferta de pago,SI,NO
+78,1029,2026-01-18,Email,Recordatorio,NO,NO
+79,1029,2026-03-10,WhatsApp,Oferta de pago,NO,NO
+80,1029,2026-06-08,WhatsApp,Oferta de pago,NO,SI
+81,1030,2026-06-06,Email,Recordatorio,NO,SI
+82,1030,2026-04-11,WhatsApp,Oferta de pago,SI,SI
+83,1031,2026-01-06,WhatsApp,Seguimiento,SI,NO
+84,1031,2026-02-12,WhatsApp,Seguimiento,SI,SI
+85,1032,2026-04-13,WhatsApp,Seguimiento,SI,NO
+86,1032,2026-03-11,Email,Oferta de pago,NO,NO
+87,1032,2026-02-22,Llamada,Seguimiento,SI,SI
+88,1032,2026-03-08,WhatsApp,Oferta de pago,NO,NO
+89,1033,2026-01-05,Email,Oferta de pago,NO,NO
+90,1033,2026-01-03,WhatsApp,Seguimiento,NO,NO
+91,1033,2026-02-26,Email,Recordatorio,SI,SI
+92,1034,2026-06-04,Llamada,Seguimiento,NO,SI
+93,1034,2026-05-25,Email,Recordatorio,SI,SI
+94,1034,2026-05-02,Llamada,Seguimiento,NO,SI
+95,1034,2026-06-09,Llamada,Seguimiento,NO,SI
+96,1035,2026-01-10,Llamada,Seguimiento,SI,NO
+97,1035,2026-03-08,Llamada,Recordatorio,SI,NO
+98,1036,2026-03-11,Llamada,Recordatorio,NO,SI
+99,1036,2026-05-08,Email,Oferta de pago,NO,SI
+100,1036,2026-01-07,WhatsApp,Seguimiento,NO,SI
+101,1037,2026-02-22,WhatsApp,Oferta de pago,SI,NO
+102,1037,2026-01-23,WhatsApp,Seguimiento,NO,NO
+103,1037,2026-06-13,Email,Recordatorio,NO,SI
+104,1038,2026-04-07,WhatsApp,Recordatorio,SI,NO
+105,1038,2026-02-09,WhatsApp,Recordatorio,NO,SI
+106,1039,2026-04-14,Llamada,Recordatorio,SI,NO
+107,1039,2026-01-07,Email,Seguimiento,SI,NO
+108,1040,2026-06-02,Email,Oferta de pago,NO,NO
+109,1040,2026-06-04,Email,Recordatorio,NO,SI
+110,1041,2026-06-17,Llamada,Oferta de pago,SI,NO
+111,1041,2026-06-24,WhatsApp,Oferta de pago,NO,NO
+112,1042,2026-01-01,Email,Oferta de pago,SI,NO
+113,1042,2026-04-04,Llamada,Recordatorio,NO,NO
+114,1043,2026-04-03,Email,Seguimiento,NO,SI
+115,1043,2026-03-18,WhatsApp,Recordatorio,NO,NO
+116,1043,2026-06-16,Email,Seguimiento,NO,SI
+117,1044,2026-04-02,WhatsApp,Recordatorio,NO,SI
+118,1044,2026-01-09,Email,Seguimiento,SI,NO
+119,1044,2026-03-09,WhatsApp,Seguimiento,SI,NO
+120,1044,2026-06-23,Llamada,Oferta de pago,NO,NO
+121,1045,2026-06-25,Llamada,Seguimiento,SI,SI
+122,1045,2026-02-04,WhatsApp,Seguimiento,NO,NO
+123,1046,2026-04-27,WhatsApp,Recordatorio,NO,SI
+124,1046,2026-01-26,Llamada,Oferta de pago,SI,SI
+125,1046,2026-03-28,WhatsApp,Oferta de pago,NO,SI
+126,1047,2026-02-13,Email,Recordatorio,NO,SI
+127,1047,2026-06-02,WhatsApp,Seguimiento,NO,SI
+128,1047,2026-04-04,Email,Oferta de pago,SI,SI
+129,1047,2026-01-14,WhatsApp,Seguimiento,NO,SI
+130,1048,2026-02-14,WhatsApp,Seguimiento,SI,SI
+131,1048,2026-03-10,WhatsApp,Seguimiento,NO,NO
+132,1049,2026-06-09,Email,Oferta de pago,SI,SI
+133,1049,2026-02-08,Email,Oferta de pago,SI,NO
+134,1049,2026-01-13,WhatsApp,Recordatorio,SI,SI
+135,1050,2026-04-02,Email,Recordatorio,NO,SI
+136,1050,2026-04-12,Email,Oferta de pago,SI,SI
+137,1050,2026-01-07,Llamada,Seguimiento,SI,SI
+138,1050,2026-03-17,Email,Oferta de pago,NO,SI
